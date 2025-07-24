@@ -1,8 +1,13 @@
 ## Backend (Python)
 __pycache__
-backend/config
-backend/data
-backend/log
+runs/
+03dataset.yaml
+15dataset.yaml
+32dataset.yaml
+15type_model.pt
+yolo11l.pt
+yolo11n.pt
+test.py
 
 # Unit test / coverage reports
 htmlcov/
